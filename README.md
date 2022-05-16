@@ -2,7 +2,7 @@
 A curated list of Secret Contracts ordered by complexity. Secret Agents are welcome to suggest their own projects and improve these.
 
 ### Basic
-1. [Counter](https://github.com/scrtlabs/secret-counter) (Which is also the reference template contract) - Increments a counter which you can query.
+1. [Counter](https://github.com/scrtlabs/secret-counter) - Increments a counter which you can query.
 2. [Reminders](https://github.com/darwinzer0/secret-contract-tutorials/tree/main/tutorial1/code) - Lets users create a private reminder on the blockchain. Includes [tutorial](https://learn.figment.io/tutorials/creating-a-secret-contract-from-scratch).
 3. [Voting](https://github.com/scrtlabs/SecretSimpleVote) - Lets users vote "yes" or "no" privately [^1]. 
 4. [Dice](https://github.com/scrtlabs/SecretDice) - Two players bet 1 scrt. Player 1 wins the pot if dice shows 1-3.
