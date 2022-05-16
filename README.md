@@ -24,6 +24,7 @@ A curated list of Secret Contracts ordered by complexity. Secret Agents are welc
 3. [Poker](https://github.com/scrtlabs/SecretHoldEm).
    * Includes Random number usage.
 4. [Sealed-Bid Auction](https://github.com/baedrik/SCRT-sealed-bid-auction).
+5. [Migrations](https://github.com/scrtlabs/secret-migrate-example).
 
 ### Reference implementations
 1. [SNIP-20](https://github.com/scrtlabs/snip20-reference-impl) - Transferable, private, fungible store of value (Token).
