@@ -29,7 +29,7 @@ Includes [tutorial](https://learn.figment.io/tutorials/creating-a-secret-contrac
 6. [AMM](https://github.com/scrtlabs/SecretSwap). 
    * 4 contracts: A [factory](https://github.com/scrtlabs/SecretSwap/tree/master/contracts/secretswap_factory) contract creates and lists many trading 
    [pairs](https://github.com/scrtlabs/SecretSwap/tree/master/contracts/secretswap_pair), which enable swaps based on liquidy added by providers who are rewarded LP [tokens](https://github.com/scrtlabs/SecretSwap/tree/master/contracts/secretswap_token).
-   A [router](https://github.com/scrtlabs/SecretSwap/tree/master/contracts/secretswap_router) contract helps the UI show what paths between unexistent pairs
+   A [router](https://github.com/scrtlabs/SecretSwap/tree/master/contracts/secretswap_router) contract helps the UI show paths between unexistent pairs.
 
 ### Reference implementations
 1. [SNIP-20](https://github.com/scrtlabs/snip20-reference-impl) - Transferable, private, fungible store of value (Token).
