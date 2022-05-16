@@ -1,4 +1,4 @@
-# Secret Contracts Example List
+# Secret Contract Examples List
 A curated list of Secret Contracts ordered by complexity. Secret Agents are welcome to suggest their own projects and improve these.
 
 ### Basic
