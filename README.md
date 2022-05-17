@@ -6,7 +6,7 @@ A curated list of Secret Contracts ordered by complexity. Secret Agents are welc
 2. [Reminders](https://github.com/darwinzer0/secret-contract-tutorials/tree/main/tutorial1/code) - Lets users create a private reminder on the blockchain.
 Includes [tutorial](https://learn.figment.io/tutorials/creating-a-secret-contract-from-scratch).
 4. [Voting](https://github.com/scrtlabs/SecretSimpleVote) - Lets users vote "yes" or "no" privately [^1]. 
-5. [Dice](https://github.com/scrtlabs/SecretDice) - Two players bet 1 scrt. Player 1 wins the pot if dice shows 1-3.
+5. [Dice](https://github.com/scrtlabs/SecretDice) - Two players bet 1 scrt. Player 1 wins the pot if die shows 1-3.
    * Demonstrates sending scrt.
    * Demonstrates randomness.
 6. Calculator - Privately calculates basic arithmetic operations which are saved to the user's History.
@@ -29,7 +29,7 @@ Includes [tutorial](https://learn.figment.io/tutorials/creating-a-secret-contrac
 6. [AMM](https://github.com/scrtlabs/SecretSwap). 
    * 4 contracts: A [factory](https://github.com/scrtlabs/SecretSwap/tree/master/contracts/secretswap_factory) contract creates and lists many trading 
    [pairs](https://github.com/scrtlabs/SecretSwap/tree/master/contracts/secretswap_pair), which enable swaps based on liquidy added by providers who are rewarded LP [tokens](https://github.com/scrtlabs/SecretSwap/tree/master/contracts/secretswap_token).
-   A [router](https://github.com/scrtlabs/SecretSwap/tree/master/contracts/secretswap_router) contract helps the UI show paths between unexistent pairs.
+   The UI uses the [router](https://github.com/scrtlabs/SecretSwap/tree/master/contracts/secretswap_router) contract to connect paths between unexistent pairs.
 
 ### Reference implementations
 1. [SNIP-20](https://github.com/scrtlabs/snip20-reference-impl) - Transferable, private, fungible store of value (Token).
