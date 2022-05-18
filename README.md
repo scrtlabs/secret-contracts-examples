@@ -5,7 +5,7 @@ A curated list of Secret Contracts ordered by complexity. Secret Agents are welc
 1. [Counter](https://github.com/scrtlabs/secret-counter) - Increments a counter which you can query.
 2. [Reminders](https://github.com/darwinzer0/secret-contract-tutorials/tree/main/tutorial1/code) - Lets users create a private reminder on the blockchain.
 Includes [tutorial](https://learn.figment.io/tutorials/creating-a-secret-contract-from-scratch).
-4. [Voting](https://github.com/scrtlabs/SecretSimpleVote) - Lets users vote "yes" or "no" privately [^1]. 
+4. [Voting](https://github.com/scrtlabs/SecretSimpleVote) - Lets users vote "yes" or "no" privately.[^1] 
 5. [Dice](https://github.com/scrtlabs/SecretDice) - Two players bet 1 scrt. Player 1 wins the pot if die shows 1-3.
    * Demonstrates sending scrt.
    * Demonstrates randomness.
@@ -16,7 +16,7 @@ Includes [tutorial](https://learn.figment.io/tutorials/creating-a-secret-contrac
 
 
 ### Advanced
-1. [Decentralized Reviews](https://github.com/eshelB/decure/) - Users can review/rate businesses they transacted with[^1]. 
+1. [Decentralized Reviews](https://github.com/eshelB/decure/) - Users can review/rate businesses they transacted with.[^1] 
    * Includes basic inter-contract querying.
    * Basic Demonstration of an [Iterable Map](https://github.com/scrtlabs/secret-toolkit/tree/master/packages/incubator#cashmap), which isn't trivial concept in Secret Network.
 2. [Blackjack](https://github.com/scrtlabs/SecretJack).
